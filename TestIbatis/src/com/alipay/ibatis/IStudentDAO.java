@@ -10,4 +10,5 @@ public interface IStudentDAO {
 	public List<Student> queryAllStudent();
 	public Student queryStudentById(int id);
 	public List<Student> queryStudentByName(String name);
+	//helloworld
 }
